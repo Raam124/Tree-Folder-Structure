@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Folder One",
+        "children": [
+            {
+                "name": "Sub Folder One",
+                "children": [
+                    {"name": "File One.txt"},
+                    {"name": "File Two.txt"}
+                ]
+            },
+            {"name": "File Three.txt"}
+        ]
+    },
+    {
+        "name": "Folder Two",
+        "children": [
+            {"name": "File Four.txt"},
+            {"name": "File Five.txt"}
+        ]
+    },
+    {
+        "name": "Folder Three",
+        "children": [
+            {
+                "name": "Sub Folder Two",
+                "children": [
+                    {"name": "File Six.txt"},
+                    {"name": "File Seven.txt"}
+                ]
+            },
+            {
+                "name": "Sub Folder Three",
+                "children": [
+                    {"name": "File Eight.txt"},
+                    {"name": "File Nine.txt"}
+                ]
+            },
+            {"name": "File Ten.txt"}
+        ]
+    },
+    {"name": "File Eleven.txt"}
+]
