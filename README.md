@@ -44,3 +44,4 @@ Customize:
 
     You can modify the tree_folder_structure_data.json file to represent your desired folder structure for testing different scenarios. The JSON file is preloaded feel free to update it without changing the key names
 
+A working video of the apllication is attached
